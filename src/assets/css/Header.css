@@ -1,0 +1,18 @@
+header#header_content{
+  background-color: #4A90E2;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  height: 64px;
+  width: 100%;
+}
+header#header_content div > img{
+  display: flex;
+  margin-left: 20px;
+}
+
+header#header_content div > p{
+  display: flex;
+  margin-right: 23px;
+  color: #FFF;
+}
